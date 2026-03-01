@@ -4,7 +4,7 @@ CS 360 - Mobile App Development Portfolio Artifact
 
 Project Three: 
 
-WeightTracker Mobile Application Overview.
+WeightTracker Mobile Application Overview
 
 The WeightTracker mobile application was created to assist people monitor and control their weight in a straightforward, systematic, and consistent manner. The app's major purpose is to give users with a secure and simple platform for logging daily weight entries, reviewing previous data, updating or deleting records, and receiving SMS reminders to keep on track. This software was created to meet the requirement for accountability and long-term health monitoring while without overwhelming users with needless functionality. WeightTracker is an effective tool for individuals who want to measure their progress and maintain healthy behaviors.
 
